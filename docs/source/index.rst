@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+DA88 –  DA88.GAY ĐỈNH CAO GIẢI TRÍ | THẮNG LỚN MỖI NGÀY
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`DA88 <https://da88.gay/>`_ ra mắt vào năm 2017, đã nhanh chóng khẳng định vị thế trong ngành giải trí trực tuyến, trở thành một lựa chọn đáng tin cậy cho người chơi. Sở hữu kho game đa dạng, bao gồm các môn thể thao, game bài, bắn cá, nổ hũ và lô đề, nền tảng mang đến cho người dùng những trải nghiệm giải trí phong phú và hấp dẫn.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông Tin Chi Tiết:
 
-.. note::
+Website: https://da88.gay/
 
-   This project is under active development.
+Email: da88gay@gmail.com
 
-Contents
---------
+Số Điện Thoại: 0315343987
 
-.. toctree::
+Địa Chỉ: 18 P. Liễu Giai, Liễu Giai, Ba Đình, Hà Nội, Việt Nam
 
-   usage
-   api
+#da88 #da88_gay #trang_chu_da88
